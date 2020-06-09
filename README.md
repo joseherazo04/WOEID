@@ -14,4 +14,4 @@ If you want to **find a woeid** from a place just call ```get_woeid('a_place')``
 Otherwise, if you want to **find the name of a place or country**, and you already know its woeid, call ```get_place('a_woeid')```. Example 
 ```get_place(23424919)``` will return ```'Peru'```.
 
-Aditionally, if a want the complete dictionary, you can use the function ```get_all()```.
+Aditionally, if a want the complete dictionary, you can use the function ```get_all_places()```.
