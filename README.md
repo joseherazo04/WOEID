@@ -2,9 +2,9 @@
 
 ## Description
 
-A WOEID (Where On Earth IDentifier) is a unique 32-bit reference identifier, originally defined by GeoPlanet and now assigned by Yahoo!, that identifies any feature on Earth
+A WOEID (Where On Earth IDentifier) is a unique 32-bit reference identifier, originally defined by GeoPlanet and now assigned by Yahoo!, that identifies any feature on Earth. (from [Wikipedia](https://en.wikipedia.org/wiki/WOEID))
 
-It is used by Twitter to group trends by places
+It is used by Twitter to group trends by places, so it'll be useful if you are going to collect Twitter trends from different places using the API.
 
 ## How to use it?
 
