@@ -14,6 +14,6 @@ Otherwise, if you want to **find the name of a place or country**, and you alrea
 
 Aditionally, if a want the complete dictionary, you can use the function ```get_all_places()```.
 
-## Where did I find this?
+## Where did I find this data?
 
 Here: https://codebeautify.org/jsonviewer/
