@@ -51,7 +51,7 @@ places = {
     'Mexicali' : 133475,
     'Monterrey' : 134047,
     'Morelia' : 134091,
-    'Naucalpan de JuÃ¡rez' : 134395,
+    'Naucalpan de Juarez' : 134395,
     'Puebla' : 137612,
     'Queretaro' : 138045,
     'Saltillo' : 141272,
