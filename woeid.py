@@ -5719,4 +5719,15 @@ def get_towns_list():
         
     return towns
 
+def get_all_names():
+	'''
+	Return a list of all region names
+	'''
+	return [region['name'] for region in regions]
+
+def get_all_ids():
+	'''
+	Return a list of all region woeids
+	'''
+	return [region['woeid'] for region in regions]
         
